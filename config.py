@@ -1,1 +1,10 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+OPENAI_KEY = os.getenv("OPENAI_API_KEY")
+ASSISTANT_NAME = "AIVA"
+WAKE_WORD = "aiva"
+
 
