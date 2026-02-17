@@ -1,1 +1,6 @@
+customtkinter
+speechrecognition
+pyttsx3
+pyaudio
+psutil
 
